@@ -1,0 +1,16 @@
+c:\users\мукушева.corp\source\repos\Migrations\Migrations\bin\Debug\Migrations.exe.config
+c:\users\мукушева.corp\source\repos\Migrations\Migrations\bin\Debug\Migrations.exe
+c:\users\мукушева.corp\source\repos\Migrations\Migrations\bin\Debug\Migrations.pdb
+c:\users\мукушева.corp\source\repos\Migrations\Migrations\bin\Debug\EntityFramework.dll
+c:\users\мукушева.corp\source\repos\Migrations\Migrations\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\мукушева.corp\source\repos\Migrations\Migrations\bin\Debug\EntityFramework.xml
+c:\users\мукушева.corp\source\repos\Migrations\Migrations\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\мукушева.corp\source\repos\Migrations\Migrations\bin\Debug\ru\EntityFramework.resources.dll
+c:\users\мукушева.corp\source\repos\Migrations\Migrations\obj\Debug\Migrations.csprojAssemblyReference.cache
+c:\users\мукушева.corp\source\repos\Migrations\Migrations\obj\Debug\Migrations.csproj.CoreCompileInputs.cache
+c:\users\мукушева.corp\source\repos\Migrations\Migrations\obj\Debug\Migrations.csproj.CopyComplete
+c:\users\мукушева.corp\source\repos\Migrations\Migrations\obj\Debug\Migrations.exe
+c:\users\мукушева.corp\source\repos\Migrations\Migrations\obj\Debug\Migrations.pdb
+c:\users\мукушева.corp\source\repos\Migrations\Migrations\obj\Debug\Migrations.Migrations.InitialCreate.resources
+c:\users\мукушева.corp\source\repos\Migrations\Migrations\obj\Debug\Migrations.csproj.GenerateResource.cache
+c:\users\мукушева.corp\source\repos\Migrations\Migrations\obj\Debug\Migrations.Migrations.UsersAddCreationDate.resources
